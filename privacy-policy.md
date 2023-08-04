@@ -8,8 +8,7 @@ We care deeply about safety. Our dedicated works hard to help keep our community
 We give you control. We give you the ability to control your privacy on ArabSystem Bot.
 The information we collect
 Information you provide to us -:
-Account information. Your tag, your avatar, your ID, your status and such things
-Content you create. This includes any content that you upload to the service. For example, you may write messages (including drafts), create custom emojis, or upload and share files through the services. This also includes your profile information and the information you provide when you create servers.
+Server information. Server name, server icon, server ID. This includes any content that you upload to the service. For example, you may write messages (including drafts), create custom emojis, or upload and share files through the services. This also includes your profile information and the information you provide when you create servers.
 Information from actions you take. We collect information about your use of and activities on the services. This includes the friends you add, the servers or other communities you join, your roles in servers, content moderation decisions you make, and other related actions.
 
 Other information you provide directly to us. You may have the option to submit additional information as you use Discord. For example, you may choose to participate in our verified server program, which requires that you
