@@ -5,7 +5,7 @@ We care a lot about privacy. We are committed to creating spaces where people ca
 We don’t sell your data.
 We limit what information is required. The rest is optional.
 We care deeply about safety. Our dedicated works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services.
-We give you control. We give you the ability to control your privacy on ArabBank Bot.
+We give you control. We give you the ability to control your privacy on ArabSystem Bot.
 The information we collect
 Information you provide to us -:
 Account information. Your tag, your avatar, your ID, your status and such things
